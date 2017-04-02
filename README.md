@@ -1,0 +1,2 @@
+# tex-temp
+TeXのmakefileメモ
